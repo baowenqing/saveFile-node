@@ -1,5 +1,5 @@
 {
-  "name": "@danke-dev/save-file",
+  "name": "save-file",
   "version": "1.0.4",
   "description": "node save file",
   "keywords": [
@@ -30,5 +30,5 @@
   "bugs": {
     "url": "https://github.com/baowenqing/saveFile-node/issues"
   },
-  "gitHead": "06f53b88e5f1525207d8b75296b8ec48c4331099"
+  "gitHead": "9857bd53a1d73b199ee6dbe4206b23122f4c2866"
 }
