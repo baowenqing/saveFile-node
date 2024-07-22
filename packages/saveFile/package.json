@@ -18,7 +18,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://mirrors.huaweicloud.com/repository/npm/"
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -30,5 +30,5 @@
   "bugs": {
     "url": "https://github.com/baowenqing/saveFile-node/issues"
   },
-  "gitHead": "146e9c9aa6afcc4eb90fb248c0041851b39aaa8f"
+  "gitHead": "2931644fd9768aa2cdcac9f92bba398ecfa11dc4"
 }
