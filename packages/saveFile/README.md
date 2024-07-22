@@ -1,11 +1,13 @@
-# `saveFile`
+### 自用工具库 
 
-> TODO: description
+> 安装依赖： npm i @danke-dev/save-file
 
-## Usage
+###  示例
+```js
+
+savefile("./文档.txt",1,true)
+savefile("./音乐.mp3",fileContent,false)
 
 ```
-const savefile = require('saveFile');
 
-// TODO: DEMONSTRATE API
-```
+![img.png](img.png)
