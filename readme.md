@@ -43,6 +43,16 @@ lerna run test --scope=package-name
 > 使用 lerna bootstrap 命令来安装所有包的依赖。
 
  `注意：`
+
  1.package.json里的name 限制为：小写不含特殊字符
+
  2.lerna根目录需含有[LICENSE.md](LICENSE.md)
+
  3.遇到发布不上去的话，检查npm的本地镜像源是否改为了第三方的了，如果是的需要修改回官网的
+ 
+```shell
+
+ //官网镜像源
+npm config set registry https://registry.npmjs.org/  
+
+```
