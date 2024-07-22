@@ -1,0 +1,33 @@
+{
+  "name": "@danke-dev/save-file",
+  "version": "1.0.0",
+  "description": "node save file",
+  "keywords": [
+    "save",
+    "file"
+  ],
+  "author": "Jerry.bao <879694230@qq.com>",
+  "homepage": "https://github.com/baowenqing/saveFile-node#readme",
+  "license": "MIT",
+  "main": "lib/saveFile.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://mirrors.huaweicloud.com/repository/npm/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baowenqing/saveFile-node.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/saveFile.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/baowenqing/saveFile-node/issues"
+  }
+}
